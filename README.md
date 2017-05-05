@@ -1,4 +1,5 @@
 # Best-Papers
 
-This repository contains Best Papers nominees from AAAI, IJCAI, ICML, NIPS, and ICAPS.
-There may be some omissions.
+This repository contains Best Papers nominees from top conferences related to Artificial Intelligence -- AAAI, IJCAI, ICML, NIPS, KDD, and ICAPS.
+The papers are listed in http://jeffhuang.com/best_paper_awards.html.
+
